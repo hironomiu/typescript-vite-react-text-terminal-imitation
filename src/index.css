@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.blink {
+  animation: blinkAnime 1s infinite alternate;
+  /* animation: blinkEffect 1s ease infinite; */
+}
+@keyframes blinkAnime {
+  0% {
+    background-color: #060000;
+  }
+  100% {
+    background-color: #d2d2d2;
+  }
+}
+
+.successed-command {
+  color: greenyellow;
+}

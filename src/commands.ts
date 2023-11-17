@@ -1,0 +1,6 @@
+export const commands = new Map()
+commands.set('hoge', 'Hogeeeeeeeeee!!!!')
+commands.set('fuga', 'FFFFFUUUUUgggaaaa!!!!')
+commands.set('ps', 'ピーエス！ピーエス！')
+commands.set('help', `へるぷ\nコマンド一覧`)
+commands.set('hello', `hello!!!\nこんにちは！！！`)
