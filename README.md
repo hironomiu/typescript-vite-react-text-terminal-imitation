@@ -4,13 +4,35 @@
 
 ![demo](./demo.gif)
 
-[react-text-terminal-imitation](https://github.com/hironomiu/react-text-terminal-imitation)を Vite ＋ TypeScript + Tailwind + Jotai で再作成変更
+[react-text-terminal-imitation](https://github.com/hironomiu/react-text-terminal-imitation)を Vite ＋ TypeScript + Tailwind + Jotai で再作成
+
+## Set Up
+
+`git clone`後
+
+```
+npm install
+```
 
 ## Dev Server Run
 
 ```
 npm run dev
 ```
+
+## How to move the cursor
+
+### Left
+
+ArrowLeft or CTRL + b
+
+### Right
+
+ArrowRight or CTRL + f
+
+## Commands
+
+### echo
 
 ## Install Memo
 
