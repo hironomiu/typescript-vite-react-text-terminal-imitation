@@ -28,6 +28,12 @@ npm run dev
 npm run test
 ```
 
+`watchAll`
+
+```
+npm run test-watchAll
+```
+
 ## How to move the cursor
 
 ### Left
