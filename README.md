@@ -1,5 +1,7 @@
 # typescript-vite-react-text-terminal-imitation
 
+[![Node.js Package](https://github.com/hironomiu/typescript-vite-react-text-terminal-imitation/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/hironomiu/typescript-vite-react-text-terminal-imitation/actions/workflows/npm-publish-github-packages.yml)
+
 テキストターミナル風 UI
 
 ![demo](./demo.gif)
