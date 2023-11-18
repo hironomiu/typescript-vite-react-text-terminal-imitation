@@ -20,6 +20,12 @@ npm install
 npm run dev
 ```
 
+## Test
+
+```
+npm run test
+```
+
 ## How to move the cursor
 
 ### Left
